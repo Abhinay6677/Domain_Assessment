@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "pharmacy.medicine-service.url",
+    "type": "java.lang.String",
+    "description": "A description for 'pharmacy.medicine-service.url'"
+  },
+  {
+    "name": "medicine.service.url",
+    "type": "java.lang.String",
+    "description": "A description for 'medicine.service.url'"
+  }
+]}
